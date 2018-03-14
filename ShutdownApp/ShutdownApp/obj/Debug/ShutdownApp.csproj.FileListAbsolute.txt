@@ -1,0 +1,10 @@
+D:\Projekty Visual\ShutdownApp\ShutdownApp\bin\Debug\ShutdownApp.exe.config
+D:\Projekty Visual\ShutdownApp\ShutdownApp\bin\Debug\ShutdownApp.exe
+D:\Projekty Visual\ShutdownApp\ShutdownApp\bin\Debug\ShutdownApp.pdb
+D:\Projekty Visual\ShutdownApp\ShutdownApp\obj\Debug\ShutdownApp.csprojResolveAssemblyReference.cache
+D:\Projekty Visual\ShutdownApp\ShutdownApp\obj\Debug\ShutdownApp.MainWindow.resources
+D:\Projekty Visual\ShutdownApp\ShutdownApp\obj\Debug\ShutdownApp.Properties.Resources.resources
+D:\Projekty Visual\ShutdownApp\ShutdownApp\obj\Debug\ShutdownApp.csproj.GenerateResource.Cache
+D:\Projekty Visual\ShutdownApp\ShutdownApp\obj\Debug\ShutdownApp.csproj.CoreCompileInputs.cache
+D:\Projekty Visual\ShutdownApp\ShutdownApp\obj\Debug\ShutdownApp.exe
+D:\Projekty Visual\ShutdownApp\ShutdownApp\obj\Debug\ShutdownApp.pdb
